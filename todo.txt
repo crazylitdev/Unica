@@ -1,0 +1,17 @@
+CLI - 
+    - Menu
+    - Face Verification
+    - Passcode Verification
+    - QR Generation
+    - QR Scanner
+    - Json Objects
+
+Blockchain -
+    - write smart contract
+    - execute it from python
+
+Flask - 
+    - create an API and integrate evrything
+
+Misc - 
+    - create twilio OTP verifier
